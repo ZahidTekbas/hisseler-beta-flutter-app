@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+You may create the required iOS and Android build files with flutter create . command inside the directory.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
